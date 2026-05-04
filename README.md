@@ -22,7 +22,7 @@
 
 ## 🌲 About Me
 
-<img align="right" alt="Nature Coding GIF" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ3cWU4MnNyMXM5NWZkNmFtNWgwMjRyOWY5aGJsYWN1OGt5eDh0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNQ03J5JxX6lva/giphy.gif">
+<img align="right" alt="Nature Coding GIF" width="400" src="https://i.pinimg.com/originals/c5/88/e9/c588e902a9c7858879393616e2620f38.gif">
 
 ```c
 struct Abhinav {
