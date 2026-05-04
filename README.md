@@ -16,7 +16,7 @@
 </p>
 
 <!-- Nature Divider -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Abhinav-Bathala/Abhinav-Bathala/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
 
@@ -56,7 +56,7 @@ struct Abhinav {
 - 💡 **Building** projects that bridge hardware and software
 - 🍃 **Active lifestyle**: Calisthenics, Biking, and Running
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Abhinav-Bathala/Abhinav-Bathala/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -92,7 +92,7 @@ struct Abhinav {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Abhinav-Bathala/Abhinav-Bathala/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 ## 🌿 Robotics Journey
 
@@ -136,7 +136,7 @@ Level 1 ──► Level 2 ──► Level 3 ──► Level 4 ──► Level 5,
 
 </div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Abhinav-Bathala/Abhinav-Bathala/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -146,7 +146,7 @@ Level 1 ──► Level 2 ──► Level 3 ──► Level 4 ──► Level 5,
 
 </div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Abhinav-Bathala/Abhinav-Bathala/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 ## 🏃 Beyond the Code
 
@@ -167,7 +167,7 @@ Level 1 ──► Level 2 ──► Level 3 ──► Level 4 ──► Level 5,
 
 </div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Abhinav-Bathala/Abhinav-Bathala/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 ## 🤝 Connect With Me
 
