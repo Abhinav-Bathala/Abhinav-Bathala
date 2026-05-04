@@ -107,28 +107,36 @@ Level 1 ──► Level 2 ──► Level 3 ──► Level 4 ──► Level 5,
 [Circuits]  [Mechanics] [Sensors]  [Visual C]  [Embedded C, Autonomous Systems]  [OBotz 🌲]
 ```
 
+<div align="center">
+
+<div align="center">
+
 ### 🎯 Core Competencies
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🔌 Embedded Systems
-- ✅ Registers & Macros
-- ✅ ADC Conversions
-- ✅ Timers & PWM
-- ✅ ISR Interrupts
-- ✅ DMA & Memory Management
+<table align="center">
+  <tr><td>✅</td><td>Registers & Macros</td></tr>
+  <tr><td>✅</td><td>ADC Conversions</td></tr>
+  <tr><td>✅</td><td>Timers & PWM</td></tr>
+  <tr><td>✅</td><td>ISR Interrupts</td></tr>
+  <tr><td>✅</td><td>DMA & Memory Management</td></tr>
+</table>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🤖 Robotics Control
-- ✅ Servo/Stepper Motors
-- ✅ Sensor Integration
-- ✅ Bluetooth (HC-05)
-- ✅ IR Remote Decoding
-- ✅ Autonomous Navigation
+<table align="center">
+  <tr><td>✅</td><td>Servo/Stepper Motors</td></tr>
+  <tr><td>✅</td><td>Sensor Integration</td></tr>
+  <tr><td>✅</td><td>Bluetooth (HC-05)</td></tr>
+  <tr><td>✅</td><td>IR Remote Decoding</td></tr>
+  <tr><td>✅</td><td>Autonomous Navigation</td></tr>
+</table>
 
 </td>
 </tr>
