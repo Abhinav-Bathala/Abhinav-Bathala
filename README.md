@@ -141,9 +141,8 @@ Level 1 ──► Level 2 ──► Level 3 ──► Level 4 ──► Level 5,
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=Abhinav-Bathala&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=2F855A&icon_color=38A169&text_color=9ca3af" />
-
+  
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Bathala&theme=dark&hide_border=true&background=0d1117&stroke=2F855A&ring=38A169&fire=48BB78&currStreakLabel=2F855A" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Abhinav-Bathala/Abhinav-Bathala/output/github-contribution-grid-snake-dark.svg" width="100%">
