@@ -157,7 +157,7 @@ Level 1 ──► Level 2 ──► Level 3 ──► Level 4 ──► Level 5,
 
 | 🏋️ **Calisthenics** | 🚴 **Biking** | 🏃 **Running** |
 |:---:|:---:|:---:|
-| Building strength through bodyweight mastery | Exploring trails and discovering new routes | Clearing the mind, one mile at a time |
+| Building strength through bodyweight mastery | Exploring trails and discovering new routes | Clearing the mind, one kilometer at a time |
 | *Push-ups, Pull-ups, Handstands* | *Mountain trails & city paths* | *5K+ runs regularly* |
 
 ### 💪 Philosophy
