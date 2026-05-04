@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhinav%20Bathala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing SVG with enhanced styling -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Mechatronics+Engineering+Student+%F0%9F%8E%93;Robotics+Instructor+%40+OBotz+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Embedded+Systems+Enthusiast+%E2%9A%A1;Calisthenics+%7C+Biking+%7C+Running+%F0%9F%8F%83" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Mechatronics+Engineering+Student+%F0%9F%8E%93;Robotics+Instructor+%40+OBotz+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Embedded+Systems+Enthusiast+%E2%9A%A1;Calisthenics+%7C+Biking+%7C+Gaming+%F0%9F%8F%83" alt="Typing SVG" />
 
 <br/>
 
@@ -103,12 +103,8 @@ struct Abhinav {
 ### From Student to Instructor
 
 ```
-┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────────┐
-│ Level 1 │───▶│ Level 2 │───▶│ Level 3 │───▶│ Level 4 │───▶│ Level 5 │───▶│ Level 6 │───▶│ INSTRUCTOR  │
-│Circuits │    │Mechanics│    │ Sensors │    │Visual C │    │Embedded │    │Embedded │    │   OBotz 🎓  │
-└─────────┘    └─────────┘    └─────────┘    └─────────┘    │    C    │    │ Systems │    └─────────────┘
-                                                              │Autonomous│    │         │
-                                                              └─────────┘    └─────────┘
+Level 1 ──► Level 2 ──► Level 3 ──► Level 4 ──► Level 5, Level 6, Level 7 ──► INSTRUCTOR
+[Circuits]  [Mechanics] [Sensors]  [Visual C]  [Embedded C, Autonomous Systems]  [OBotz 🎓]
 ```
 
 ### 🎯 Core Competencies
@@ -180,8 +176,8 @@ struct Abhinav {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-bathala-a2ba98347/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bathala.abhinav@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 <br/>
