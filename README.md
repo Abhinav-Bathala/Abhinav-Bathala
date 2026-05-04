@@ -20,14 +20,14 @@ struct Abhinav {
     char* role         = "Part-Time Robotics Instructor @ OBotz";
 
     char* interests[]  = { "Embedded Systems", "Robotics", "Full Stack Dev" };
-    char* hobbies[]    = { "Calisthenics", "Biking", "Running" };
+    char* hobbies[]    = { "Calisthenics", "Biking", "Gaming" };
 };
 ```
 
 - 🎓 Studying **Mechatronics Engineering** at **Carleton University**
 - 🤖 Teaching robotics & **Embedded C** part-time as an **OBotz Instructor**
 - 🌱 Currently exploring **Full Stack Development** & advanced **Robotics Programming**
-- ⚡ When I'm not coding: **calisthenics**, **biking**, and **running**
+- ⚡ When I'm not coding: **calisthenics**, **biking**, and **gaming**
 
 ---
 
@@ -66,9 +66,9 @@ ISR Interrupts · Servo/Stepper Motor Control · Bluetooth (HC-05) · IR Remote 
 
 <div align="center">
 
-| 🏋️ Calisthenics | 🚴 Biking | 🏃 Running |
+| 🏋️ Calisthenics | 🚴 Biking | 🎮 Gaming |
 |:---:|:---:|:---:|
-| Strength & body control | Exploring trails & paths | Clearing the mind |
+| Strength & body control | Exploring trails & paths | Competitive gaming |
 
 </div>
 
