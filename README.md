@@ -51,10 +51,10 @@ struct Abhinav {
 <br clear="right"/>
 
 - 🎓 **Studying** Mechatronics Engineering at **Carleton University**
-- 🌿 **Teaching** robotics & Embedded C as an **OBotz Instructor**
-- 🌱 **Exploring** Full Stack Development & advanced Robotics Programming
+- 🌿 **Teaching** Robotics & Embedded C as an **OBotz Instructor**
+- 🌱 **Exploring** Full Stack Development & Advanced Robotics Programming
 - 💡 **Building** projects that bridge hardware and software
-- 🍃 **Active lifestyle**: Calisthenics, biking, and running
+- 🍃 **Active lifestyle**: Calisthenics, Biking, and Running
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
