@@ -32,8 +32,7 @@ struct Abhinav {
     
     char* interests[]  = { 
         "Embedded Systems", 
-        "Robotics", 
-        "Full Stack Dev" 
+        "Robotics",  
     };
     
     char* hobbies[]    = { 
@@ -52,7 +51,7 @@ struct Abhinav {
 
 - 🎓 **Studying** Mechatronics Engineering at **Carleton University**
 - 🌿 **Teaching** Robotics & Embedded C as an **OBotz Instructor**
-- 🌱 **Exploring** Full Stack Development & Advanced Robotics Programming
+- 🌱 **Exploring** Advanced Robotics Programming
 - 💡 **Building** projects that bridge hardware and software
 - 🍃 **Active lifestyle**: Calisthenics, Biking, and Running
 
