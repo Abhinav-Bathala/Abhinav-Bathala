@@ -8,23 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Explicitly granting permission within the YAML as a backup
     permissions:
       contents: write
       
     steps:
-      - uses: actions/checkout@v4 # Updated from v3
+      - uses: actions/checkout@v4
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake-snow.svg?color_snake=#ffffff&color_dots=#e0f7ff,#cceeff,#99ddff,#66ccff,#33bbff
+            dist/github-snake-snow-dark.svg?color_snake=#e6f7ff&color_dots=#0f1a24,#1f3a4d,#2f5d73,#3f7fa6,#5fa8d3
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4 # Updated from v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
