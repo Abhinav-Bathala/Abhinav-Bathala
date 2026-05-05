@@ -24,7 +24,7 @@
 
 ## ❄️ About Me
 
-<img align="right" width="360" src="https://i.pinimg.com/originals/c5/88/e9/c588e902a9c7858879393616e2620f38.gif">
+<img align="right" width="360" src="https://media.tenor.com/aq8x-fzLKoMAAAAM/seal-white-seal.gif">
 
 ```c
 struct Abhinav {
