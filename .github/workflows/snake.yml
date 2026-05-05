@@ -14,13 +14,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate snake (Ice Neon Theme)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake-ice.svg?color_snake=#67e8f9&color_dots=#ecfeff,#cffafe,#a5f3fc,#22d3ee,#0891b2
-            dist/github-snake-ice-dark.svg?color_snake=#22d3ee&color_dots=#022c22,#083344,#0e7490,#0891b2,#22d3ee
+            dist/github-snake-ice-dark.svg?color_snake=#22d3ee&color_dots=#020617,#0f172a,#1e293b,#334155,#64748b
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
