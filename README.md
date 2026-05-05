@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,23,25&height=180&section=header&text=Abhinav%20Bathala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing SVG with Forest Green Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F855A&center=true&vCenter=true&width=600&height=100&lines=Mechatronics+Engineering+Student+%F0%9F%8C%B2;Robotics+Instructor+%40+OBotz+%F0%9F%8C%BF;Full+Stack+Developer+%F0%9F%8C%B1;Embedded+Systems+Enthusiast+%F0%9F%8D%83;Calisthenics+%7C+Biking+%7C+Running+%F0%9F%8C%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F855A&center=true&vCenter=true&width=600&height=100&lines=Mechatronics+Engineering+Student+%F0%9F%8C%B2;Robotics+Instructor+%40+OBotz+%F0%9F%8C%BF;Embedded+Systems+Enthusiast+%F0%9F%8D%83;Calisthenics+%7C+Biking+%7C+Running+%F0%9F%8C%B3" alt="Typing SVG" />
 
 <br/>
 
