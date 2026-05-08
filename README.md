@@ -40,8 +40,7 @@ struct Abhinav {
     char* hobbies[] = {
         "Calisthenics",
         "Biking",
-        "Gaming",
-        
+        "Gaming",   
     };
 
     void focus() {
