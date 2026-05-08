@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3&height=180&section=header&text=Abhinav%20Bathala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=100&lines=Mechatronics+Engineering+Student+%E2%9D%84%EF%B8%8F;Robotics+Instructor+%40+OBotz+%E2%9D%84;Embedded+Systems+Enthusiast+%E2%9D%86;Calisthenics+%7C+Biking+%7C+Running+%E2%98%83%EF%B8%8F"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=100&lines=Mechatronics+Engineering+Student+%E2%9D%84%EF%B8%8F;Robotics+Instructor+%40+OBotz+%E2%9D%84;Embedded+Systems+Enthusiast+%E2%9D%86;Calisthenics+%7C+Biking+%7C+Gaming+%E2%98%83%EF%B8%8F"/>
 
 <br/>
 
