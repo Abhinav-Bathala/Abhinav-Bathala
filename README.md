@@ -40,7 +40,8 @@ struct Abhinav {
     char* hobbies[] = {
         "Calisthenics",
         "Biking",
-        "Running"
+        "Gaming",
+        
     };
 
     void focus() {
@@ -52,7 +53,7 @@ struct Abhinav {
 * 🎓 Mechatronics @ Carleton University
 * ❄️ Robotics Instructor @ OBotz
 * ⚙️ Focused on embedded + robotics systems
-* 🏃 Calisthenics | Biking | Running
+* 🏃 Calisthenics | Biking | Gaming
 
 <br clear="right"/>
 
@@ -65,10 +66,6 @@ struct Abhinav {
 ![C](https://img.shields.io/badge/C-0EA5E9?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-38BDF8?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7DD3FC?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-BAE6FD?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![React](https://img.shields.io/badge/React-0284C7?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-7DD3FC?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/Arduino-0EA5E9?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-0284C7?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)
@@ -91,9 +88,9 @@ struct Abhinav {
 
 <div align="center">
 
-|  🏋️ Calisthenics  |  🚴 Biking | 🏃 Running |
-| :----------------: | :--------: | :--------: |
-| Strength + control | Long rides |  Endurance |
+|  🏋️ Calisthenics  |  🚴 Biking | 🎮 Gaming  |
+| :----------------: | :--------: | :---------: |
+| Strength + control | Long rides | competitive |
 
 > *Stay solid. Stay consistent.*
 
