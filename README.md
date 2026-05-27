@@ -89,7 +89,7 @@ struct Abhinav {
 
 |  🏋️ Calisthenics  |  🚴 Biking | 🎮 Gaming  |
 | :----------------: | :--------: | :---------: |
-| Strength + control | Long rides | competitive |
+| Strength + Control | Long Rides | Competitive |
 
 > *Stay solid. Stay consistent.*
 
