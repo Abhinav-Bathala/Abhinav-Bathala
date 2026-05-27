@@ -51,7 +51,7 @@ struct Abhinav {
 
 * 🎓 Mechatronics @ Carleton University
 * ❄️ Robotics Instructor @ OBotz
-* ⚙️ Focused on embedded + robotics systems
+* ⚙️ Focused on Embedded + Robotics Systems
 * 🏃 Calisthenics | Biking | Gaming
 
 <br clear="right"/>
